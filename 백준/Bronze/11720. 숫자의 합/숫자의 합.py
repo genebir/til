@@ -1,0 +1,1 @@
+N,M=int(input()),input();print(sum([int(_) for _ in M]))
