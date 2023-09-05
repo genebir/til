@@ -1,0 +1,1 @@
+x,y=input().split(' ');l=[int(x[::-1]),int(y[::-1])];print(max(l))
