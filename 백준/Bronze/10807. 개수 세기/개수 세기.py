@@ -1,0 +1,1 @@
+input();x=input().split(' ').count(input());print(x)
