@@ -1,0 +1,11 @@
+--constraint "/usr/local/airflow/dags/constraints/constraints-3.10-mod.txt"
+
+apache-airflow-providers-amazon==8.2.0
+pandas==1.5.3
+pendulum==2.1.2
+apache-airflow-providers-postgres==5.5.1
+apache-airflow-providers-ssh==3.7.3
+sshtunnel==0.4.0
+apache-airflow-providers-jdbc==4.0.0
+boto3==1.26.161
+botocore==1.29.161
