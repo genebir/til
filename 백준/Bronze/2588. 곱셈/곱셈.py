@@ -1,0 +1,1 @@
+a,b=input(),input();[print(int(a)*int(b[_])) for _ in reversed(range(3))];print(int(a)*int(b))
