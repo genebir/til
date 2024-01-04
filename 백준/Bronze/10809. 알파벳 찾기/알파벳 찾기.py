@@ -1,0 +1,1 @@
+l=list(input());print(' '.join([f'{l.index(chr(_))}' if chr(_) in l else '-1' for _ in range(97,123)]))
