@@ -1,0 +1,1 @@
+print(''.join(map(str,(sorted([int(_) for _ in list(input())]))[::-1])))
